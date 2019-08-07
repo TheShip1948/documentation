@@ -22,3 +22,9 @@ Markdown language: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsh
 # Error Handling 
 Resource: http://tutorials.jenkov.com/exception-handling-strategies/index.html 
 
+# Git 
+Git hooks: https://githooks.com/?fbclid=IwAR243uyG1zlP9kbucxiG8Y3WdNeK-FwrHvO8d-2tNNQ5hMCBQojVdBSG3tM 
+
+# Cmake 
+cmake utils: https://github.com/rpavlik/cmake-modules?fbclid=IwAR3SevZB-EK6PPCHo2EMYcq7H8yXPxBr3E4kri8AOw0PRS8rDJat12fBFqM 
+
