@@ -17,3 +17,6 @@ Resources: https://www.makeareadme.com/
 
 Markdown language: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet 
 
+# Error Handling 
+Resource: http://tutorials.jenkov.com/exception-handling-strategies/index.html 
+
