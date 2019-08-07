@@ -7,7 +7,9 @@ Free XML C++ Libraries: https://www.thefreecountry.com/sourcecode/xml.shtml
 How to decide between libraries: https://stackoverflow.com/questions/9387610/what-xml-parser-should-i-use-in-c 
 
 # API Design 
-Resource: https://martinfowler.com/tags/API%20design.html?fbclid=IwAR2LCr4BdJmfCz0PYrR56Itm-dFS3KXuslavJS0k0c85ojEv7LYOFeh9eCg 
+Resource: 
+* https://martinfowler.com/tags/API%20design.html?fbclid=IwAR2LCr4BdJmfCz0PYrR56Itm-dFS3KXuslavJS0k0c85ojEv7LYOFeh9eCg 
+* http://tutorials.jenkov.com/api-design/index.html 
 
 # Design Patterns
 Resource: https://sourcemaking.com/design_patterns 
