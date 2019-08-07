@@ -14,5 +14,6 @@ Resource: https://sourcemaking.com/design_patterns
 
 # README file 
 Resources: https://www.makeareadme.com/ 
+
 Markdown language: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet 
 
