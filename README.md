@@ -28,3 +28,11 @@ Git hooks: https://githooks.com/?fbclid=IwAR243uyG1zlP9kbucxiG8Y3WdNeK-FwrHvO8d-
 # Cmake 
 cmake utils: https://github.com/rpavlik/cmake-modules?fbclid=IwAR3SevZB-EK6PPCHo2EMYcq7H8yXPxBr3E4kri8AOw0PRS8rDJat12fBFqM 
 
+# GDB 
+Quick usage commands 
+gdb --help --> see the usage 
+* build your exe debug
+* gdb your.exe --> run your exe in gdb 
+* run --> execute your exe 
+* bt --> dump the backtrace 
+* q --> quit the program 
