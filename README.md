@@ -31,6 +31,7 @@ cmake utils: https://github.com/rpavlik/cmake-modules?fbclid=IwAR3SevZB-EK6PPCHo
 # GDB 
 Quick usage commands 
 gdb --help --> see the usage 
+
 resource: http://www.yolinux.com/TUTORIALS/GDB-Commands.html#GUI 
 * build your exe debug
 * gdb your.exe --> run your exe in gdb 
