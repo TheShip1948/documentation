@@ -38,3 +38,9 @@ resource: http://www.yolinux.com/TUTORIALS/GDB-Commands.html#GUI
 * run --> execute your exe 
 * bt --> dump the backtrace 
 * q --> quit the program 
+
+# Tmux 
+intro tutorial: https://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/
+advanced resources: https://leanpub.com/the-tao-of-tmux/read 
+
+
