@@ -37,6 +37,11 @@ resource: http://www.yolinux.com/TUTORIALS/GDB-Commands.html#GUI
 * gdb your.exe --> run your exe in gdb 
 * run --> execute your exe 
 * bt --> dump the backtrace 
+
+# C++ New Features 
+* https://github.com/AnthonyCalandra/modern-cpp-features 
+
+
 * q --> quit the program 
 
 # Tmux 
