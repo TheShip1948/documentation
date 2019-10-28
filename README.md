@@ -51,6 +51,8 @@ book: https://pragprog.com/book/bhtmux/tmux
 
 shortcuts: https://gist.github.com/MohamedAlaa/2961058 
 
+Man page: http://man.openbsd.org/OpenBSD-current/man1/tmux.1 
+
 
 
 
