@@ -53,6 +53,11 @@ shortcuts: https://gist.github.com/MohamedAlaa/2961058
 
 Man page: http://man.openbsd.org/OpenBSD-current/man1/tmux.1 
 
+# C++ Warnings 
+* Tutorial: https://foonathan.net/2018/10/cmake-warnings/ 
+
+* GCC warning list: https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html 
+
 
 
 
