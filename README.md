@@ -58,6 +58,6 @@ Man page: http://man.openbsd.org/OpenBSD-current/man1/tmux.1
 
 * GCC warning list: https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html 
 
-
+* Microsoft warning list: https://docs.microsoft.com/en-us/previous-versions/thxezb7y(v=vs.140)?redirectedfrom=MSDN
 
 
