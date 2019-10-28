@@ -46,5 +46,6 @@ resource: http://www.yolinux.com/TUTORIALS/GDB-Commands.html#GUI
 intro tutorial: https://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/
 
 advanced resources: https://leanpub.com/the-tao-of-tmux/read 
+
 book: https://pragprog.com/book/bhtmux/tmux 
 
