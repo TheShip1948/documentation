@@ -49,3 +49,8 @@ advanced resources: https://leanpub.com/the-tao-of-tmux/read
 
 book: https://pragprog.com/book/bhtmux/tmux 
 
+shortcuts: https://gist.github.com/MohamedAlaa/2961058 
+
+
+
+
