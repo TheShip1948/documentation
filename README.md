@@ -61,3 +61,8 @@ Man page: http://man.openbsd.org/OpenBSD-current/man1/tmux.1
 * Microsoft warning list: https://docs.microsoft.com/en-us/previous-versions/thxezb7y(v=vs.140)?redirectedfrom=MSDN
 
 
+# Coding Style 
+* Google coding style: https://google.github.io/styleguide/cppguide.html 
+
+* Cpplint(Google coding style checker): https://github.com/google/styleguide/tree/gh-pages/cpplint 
+
