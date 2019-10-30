@@ -67,3 +67,14 @@ Man page: http://man.openbsd.org/OpenBSD-current/man1/tmux.1
 * Cpplint(Google coding style checker): https://github.com/google/styleguide/tree/gh-pages/cpplint 
 
 * Article about tools: https://stackoverflow.com/questions/93260/a-free-tool-to-check-c-c-source-code-against-a-set-of-coding-standards 
+
+
+# Unit Testing (GTest)
+* Google Unit Test: https://github.com/google/googletest 
+
+* GTest starting doc: https://github.com/google/googletest/blob/master/googletest/docs/primer.md 
+
+* GMock doc: https://github.com/google/googletest/blob/master/googlemock/README.md 
+
+* GTest UI: https://github.com/ospector/gtest-gbar 
+
