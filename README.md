@@ -78,3 +78,7 @@ Man page: http://man.openbsd.org/OpenBSD-current/man1/tmux.1
 
 * GTest UI: https://github.com/ospector/gtest-gbar 
 
+* Building & integrating GTest: https://github.com/google/googletest/blob/master/googletest/README.md 
+
+
+
