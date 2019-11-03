@@ -9,3 +9,6 @@ sudo apt-get install tmux
 
 # Google Chrome 
 * https://www.linuxbabe.com/ubuntu/install-google-chrome-ubuntu-16-04-lts 
+
+# Clion 
+* https://www.jetbrains.com/help/clion/installation-guide.html 
