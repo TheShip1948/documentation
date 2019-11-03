@@ -1,1 +1,17 @@
-
+  
+{
+  "sudo_apt":{
+    "packages":[
+      "python-pip",
+      "git",
+      "vim",
+      "tmux",
+      "cmake",
+      "curl"
+    ] 
+  },
+  "pip": {
+    "packages": [
+    ]
+  }
+}
