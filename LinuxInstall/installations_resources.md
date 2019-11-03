@@ -9,3 +9,9 @@ This file contains all the resources I relayed on to install all linux applicati
 
 # Clion 
 * https://www.jetbrains.com/help/clion/installation-guide.html 
+
+# P4merge 
+The following links are installing p4merge and configuring it to be the git merge tool 
+* http://blogs.pdmlab.com/alexander.zeitler/articles/installing-and-configuring-p4merge-for-git-on-ubuntu/ 
+
+* https://gist.github.com/crmaxx/e8674c6228f4409f3bc6dd7337f95774 
