@@ -1,0 +1,23 @@
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[user]
+	name = BeshoyKhalifa-aai
+	email = Beshoy.Khalifa@automotive-ai.com
+[credential]
+	helper = cache --timeout=315360000
+[core]
+	editor = vim
+	autocrlf = input
+[alias]
+	GitLog = git log --oneline
+	Log = log --oneline
+	ShortLog = log --oneline -5
+	Branch = branch | grep \\*
+	ResetLast = reset --hard HEAD^1
+	LogAlias = config --get-regexp alias
+	Diff = difftool -t p4merge
+	ShowFiles = show --pretty=\"\" --name-only
+    sslCAInfo = /home/byehia1/Beshoy/Tutorials/FEB/Certificate/cainfo.cert
