@@ -1,4 +1,4 @@
-# documentation
+# Documentation
 The goal of this repository is document software resources I find important 
 
 # XML 
@@ -80,5 +80,10 @@ Man page: http://man.openbsd.org/OpenBSD-current/man1/tmux.1
 
 * Building & integrating GTest: https://github.com/google/googletest/blob/master/googletest/README.md 
 
+# Static Analysis 
+Free open source tool. They have Clion plugin also 
+* Cppcheck: http://cppcheck.sourceforge.net/ 
+
+* Nice list of cpp static analyzers: https://www.viva64.com/en/t/0074/ 
 
 
