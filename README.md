@@ -86,4 +86,9 @@ Free open source tool. They have Clion plugin also
 
 * Nice list of cpp static analyzers: https://www.viva64.com/en/t/0074/ 
 
+# Profilers 
+* Google profiler tools: https://github.com/gperftools/gperftools 
 
+* Valgrind profiler: http://valgrind.org/ 
+
+* List of profilers: https://blog.inventic.eu/2012/10/list-of-c-profilers-for-windows-commercial-and-non-commercial/ 
