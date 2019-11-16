@@ -97,3 +97,17 @@ Free open source tool. They have Clion plugin also
 * Algorithm summary 1: https://www.geeksforgeeks.org/algorithms-library-c-stl/ 
 
 * Algorithm summary 2: https://www.cs.helsinki.fi/u/tpkarkka/alglib/k06/lectures/algorithms.html 
+
+# Code Review 
+* Types and definition: https://en.wikipedia.org/wiki/Code_review 
+
+* Flow and procedures of code review: https://www.freecodecamp.org/news/code-review-the-ultimate-guide-aa45c358bbf5/ 
+
+* Communication and psychology of code review: 
+1. https://www.alexandra-hill.com/2018/06/25/the-art-of-giving-and-receiving-code-reviews/ 
+
+2. https://mtlynch.io/human-code-reviews-1/ 
+
+3. https://css-tricks.com/code-review-etiquette/
+
+4. https://www.youtube.com/watch?v=GC_4lBFZl_Y 
