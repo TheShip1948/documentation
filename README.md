@@ -92,3 +92,8 @@ Free open source tool. They have Clion plugin also
 * Valgrind profiler: http://valgrind.org/ 
 
 * List of profilers: https://blog.inventic.eu/2012/10/list-of-c-profilers-for-windows-commercial-and-non-commercial/ 
+
+# STL Algorithms 
+* Algorithm summary 1: https://www.geeksforgeeks.org/algorithms-library-c-stl/ 
+
+* Algorithm summary 2: https://www.cs.helsinki.fi/u/tpkarkka/alglib/k06/lectures/algorithms.html 
