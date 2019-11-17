@@ -111,3 +111,8 @@ Free open source tool. They have Clion plugin also
 3. https://css-tricks.com/code-review-etiquette/
 
 4. https://www.youtube.com/watch?v=GC_4lBFZl_Y 
+
+# Profiling 
+* Profiling overview: https://en.wikipedia.org/wiki/Profiling_(computer_programming) 
+
+
