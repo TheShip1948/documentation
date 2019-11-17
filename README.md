@@ -115,4 +115,7 @@ Free open source tool. They have Clion plugin also
 # Profiling 
 * Profiling overview: https://en.wikipedia.org/wiki/Profiling_(computer_programming) 
 
+# C++ Projects Layout 
+* https://api.csswg.org/bikeshed/?force=1&url=https://raw.githubusercontent.com/vector-of-bool/pitchfork/develop/data/spec.bs 
+
 
