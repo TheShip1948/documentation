@@ -118,4 +118,8 @@ Free open source tool. They have Clion plugin also
 # C++ Projects Layout 
 * https://api.csswg.org/bikeshed/?force=1&url=https://raw.githubusercontent.com/vector-of-bool/pitchfork/develop/data/spec.bs 
 
+# Code Quality Metrics 
+* https://www.perforce.com/blog/sca/what-code-quality-and-how-improve-it 
+
+* https://www.sealights.io/code-quality/code-quality-metrics-is-your-code-any-good/ 
 
