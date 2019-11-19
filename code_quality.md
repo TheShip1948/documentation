@@ -1,6 +1,6 @@
 # Code Quality
 
-# Code Quality Metrics
+# Metrics
 * https://www.perforce.com/blog/sca/what-code-quality-and-how-improve-it
 
 * https://www.sealights.io/code-quality/code-quality-metrics-is-your-code-any-good/
