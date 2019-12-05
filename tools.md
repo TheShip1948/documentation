@@ -5,4 +5,4 @@ This document contains a group of tools I found useful during development
 
 * Link: https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer
 
-* The also have other tools that worth exploration 
+* They also have other tools that worth exploration 
