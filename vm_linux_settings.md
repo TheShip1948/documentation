@@ -6,6 +6,8 @@
 # Shared Folder 
 * https://www.slothparadise.com/create-shared-folder-virtualbox/ 
 
+# Virtual Machine Clone 
+* https://protechgurus.com/clone-virtual-machine-virtualbox/ 
 
 
 
