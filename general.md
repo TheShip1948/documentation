@@ -78,4 +78,10 @@ Man page: http://man.openbsd.org/OpenBSD-current/man1/tmux.1
 # Logging 
 * What to log?  
   * https://coralogix.com/log-analytics-blog/important-things-log-application-software/ 
+  * https://dzone.com/articles/application-logging-what-when 
+* Why to log? 
+  * https://softwareengineering.stackexchange.com/questions/37294/logging-why-and-what 
+  * https://owasp.org/www-project-cheat-sheets/cheatsheets/Logging_Cheat_Sheet.html 
+* Best practices 
+  * https://www.loggly.com/blog/30-best-practices-logging-scale/
   
