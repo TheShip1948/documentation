@@ -74,3 +74,8 @@ Man page: http://man.openbsd.org/OpenBSD-current/man1/tmux.1
 # Conan Package Manager 
 * Tutorial: https://gist.github.com/ForgottenUmbrella/0f32f6446b2948a3a5a99687b264910d
 * Video lecture series: https://www.youtube.com/watch?v=xBLjXdyh3zs 
+
+# Logging 
+* What to log?  
+  * https://coralogix.com/log-analytics-blog/important-things-log-application-software/ 
+  
