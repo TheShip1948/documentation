@@ -85,3 +85,9 @@ Man page: http://man.openbsd.org/OpenBSD-current/man1/tmux.1
 * Best practices 
   * https://www.loggly.com/blog/30-best-practices-logging-scale/
   
+  # C++ Code Comment 
+  * https://google.github.io/styleguide/cppguide.html#Comment_Style 
+  * https://developer.lsst.io/cpp/api-docs.html 
+  * http://www.doxygen.nl/manual/docblocks.html 
+  * http://www.edparrish.net/common/cppdoc.html 
+  
