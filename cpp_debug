@@ -1,0 +1,5 @@
+# Generate a stack trace & Debug SigSegv bugs
+
+call signal(SIGSEGV, SIG_DFL); before the first call to sync()?
+You will have to #include<signal.h> for this.
+
