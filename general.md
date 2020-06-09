@@ -91,3 +91,7 @@ Man page: http://man.openbsd.org/OpenBSD-current/man1/tmux.1
   * http://www.doxygen.nl/manual/docblocks.html 
   * http://www.edparrish.net/common/cppdoc.html 
   
+# Anaconda Installation 
+* Uninstall Anaconda: https://linuxize.com/post/how-to-install-anaconda-on-ubuntu-18-04/#installing-anaconda 
+* Install Anaconda: https://docs.anaconda.com/anaconda/install/linux/ 
+* Download Anaconda: https://www.anaconda.com/products/individual#linux 
