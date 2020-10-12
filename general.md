@@ -60,6 +60,8 @@ Man page: http://man.openbsd.org/OpenBSD-current/man1/tmux.1
 
 * List of profilers: https://blog.inventic.eu/2012/10/list-of-c-profilers-for-windows-commercial-and-non-commercial/ 
 
+* Easy profiler: https://github.com/yse/easy_profiler 
+
 # STL Algorithms 
 * Algorithm summary 1: https://www.geeksforgeeks.org/algorithms-library-c-stl/ 
 
